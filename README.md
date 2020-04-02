@@ -14,7 +14,7 @@ OpenWrt is vulnerable to multiple CSRF vulnerabilities. \
 [https://nvd.nist.gov/vuln/detail/CVE-2019-17367](https://nvd.nist.gov/vuln/detail/CVE-2019-17367)
 2. CVE-2019-18992 \
 OpenWrt is vulnerable to multiple XSS vulnerabilities. \
-[https://nvd.nist.gov/vuln/detail/CVE-2019-18992](https://nvd.nist.gov/vuln/detail/CVE-2019-18992) \
+[https://nvd.nist.gov/vuln/detail/CVE-2019-18992](https://nvd.nist.gov/vuln/detail/CVE-2019-18992) 
 
 
 
