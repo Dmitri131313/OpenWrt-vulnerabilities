@@ -42,13 +42,12 @@ You can use the OWASP Filter Evasion cheat sheet to find the correct payload.  \
 
 4. Exploit the XSS vulnerability via CSRF to redirect a user to www.google.com.
 
-*You are free to create and upload PoC attack payloads and send a pull request. I will be happy to include it*
-
 ### **How to contribute**
 
 I'm far from being an expert and this project can be expanded to include a lot of other vulnerabilities.  
 Contributions are more than welcome!
 
+**We also need to create and upload PoC attack payloads and send a pull request. I will be happy to include it**
 
 ### **Contact**
 
