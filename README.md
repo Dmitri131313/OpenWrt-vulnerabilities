@@ -1,8 +1,8 @@
 # **OpenWrt-vulnerabilities**
 
-Currently this project consists of 2 zero-day vulnerabilities (CVE-2019-18992 and CVE-2019-17367) that we discovered in OpenWrt firmware.  
-This project aims to create and publish Proof-of-Concept attack payloads for various vulnerabilities found in OpenWrt firmware.  
-The intention of this project is to include more vulnerabilities resulting in the promotion of education and awareness. 
+- Currently this project consists of 2 zero-day vulnerabilities (CVE-2019-18992 and CVE-2019-17367) that we discovered in OpenWrt firmware.
+- This project aims to create and publish Proof-of-Concept attack payloads for various vulnerabilities found in OpenWrt firmware.
+- The intention of this project is to include more vulnerabilities resulting in the promotion of education and awareness. 
 
 ### **Get started**
 1. You will need a virtulization software like VMWare or Virtualbox.  
