@@ -10,7 +10,8 @@ Download the .ovf or .ova files and import to simulate OpenWrt router enviornmen
 Launch the Virtual machine and type `$ ifconfig`.  
 Check the IP address of the VM. If you cannot see the IP, you can use the command `$ ifconfig br-lan`.  
 Try to access the OpenWrt WebUI via a browser by accessing the OpenWrt IP.  
-If you can access it as shown below, then you are good.  
+If you can access it as shown below, then you are good.
+
 <img src="https://raw.githubusercontent.com/paragmhatre1993/OpenWrt-vulnerabilities/master/images/ss1.png" width="740">
 
 ### **Vulnerabilities covered**
@@ -47,7 +48,7 @@ You can use the OWASP Filter Evasion cheat sheet to find the correct payload.  \
 I'm far from being an expert and this project can be expanded to include a lot of other vulnerabilities.  
 Contributions are more than welcome!
 
-**_We also need to create and upload PoC attack payloads. One of you can create and send a pull request. I will be happy to include it_**
+**_We also need to create and upload PoC attack payloads. One of you can create and send a pull request. I will be happy to include it._**
 
 ### **Contact**
 
