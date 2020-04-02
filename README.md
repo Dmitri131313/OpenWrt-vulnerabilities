@@ -52,7 +52,7 @@ You can use the OWASP Filter Evasion cheat sheet to find the correct payload.  \
 I'm far from being an expert and this project can be expanded to include a lot of other vulnerabilities.  
 Contributions are more than welcome!
 
-**_We also need to create and upload PoC attack payloads. One of you can create and send a pull request. I will be happy to include it._**
+**_We also need to create and upload PoC attack payloads. You can create and send a pull request. I will be happy to include it._**
 
 ### **Contact me**
 
