@@ -5,12 +5,13 @@ This project aims to create and publish Proof-of-Concept attack payloads for var
 The intention of this project is to promote education and awareness. 
 
 ### **Get started**
-You will need a virtulization software like VMWare or Virtualbox.
-Download the .ovf or .ova files and import to simulate OpenWrt router enviornment.
-Launch the Virtual machine and type `$ ifconfig`.
-Check the IP address of the VM. If you cannot see the IP, you can use the command `$ ifconfig br-lan`.
-Try to access the OpenWrt Web-UI via a browser by accessing the OpenWrt IP.
-If you can access it as shown below, then you are good.
+You will need a virtulization software like VMWare or Virtualbox.  
+Download the .ovf or .ova files and import to simulate OpenWrt router enviornment.  
+Launch the Virtual machine and type `$ ifconfig`.  
+Check the IP address of the VM. If you cannot see the IP, you can use the command `$ ifconfig br-lan`.  
+Try to access the OpenWrt WebUI via a browser by accessing the OpenWrt IP.  
+If you can access it as shown below, then you are good.  
+![OpenWrt WebUI](https://raw.githubusercontent.com/paragmhatre1993/OpenWrt-vulnerabilities/master/images/ss1.png)
 
 ### **Vulnerabilities covered**
 
