@@ -50,6 +50,6 @@ Contributions are more than welcome!
 
 **_We also need to create and upload PoC attack payloads. One of you can create and send a pull request. I will be happy to include it._**
 
-### **Contact**
+### **Contact me**
 
 You can contact me on Twitter @paraaagggg or by email paragmhatre1993@gmail.com
