@@ -37,7 +37,7 @@ You can use the OWASP Filter Evasion cheat sheet to find the correct payload.  \
 
 ### **How to contribute**
 
-I'm far from being an expert and this project can be expanded to include a lot of other vulnerabilities.  \
+I'm far from being an expert and this project can be expanded to include a lot of other vulnerabilities.  
 Contributions are more than welcome!
 
 
