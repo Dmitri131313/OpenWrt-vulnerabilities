@@ -1,3 +1,7 @@
+**References**
+https://nvd.nist.gov/vuln/detail/CVE-2019-17367  
+https://nvd.nist.gov/vuln/detail/CVE-2019-18992
+
 # **OpenWrt-vulnerabilities**
 
 - Currently this project consists of 2 zero-day vulnerabilities (CVE-2019-18992 and CVE-2019-17367) that we discovered in OpenWrt firmware.
