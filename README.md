@@ -11,7 +11,7 @@ Launch the Virtual machine and type `$ ifconfig`.
 Check the IP address of the VM. If you cannot see the IP, you can use the command `$ ifconfig br-lan`.  
 Try to access the OpenWrt WebUI via a browser by accessing the OpenWrt IP.  
 If you can access it as shown below, then you are good.  
-<img src="https://raw.githubusercontent.com/paragmhatre1993/OpenWrt-vulnerabilities/master/images/ss1.png" width="800">
+<img src="https://raw.githubusercontent.com/paragmhatre1993/OpenWrt-vulnerabilities/master/images/ss1.png" width="740">
 
 ### **Vulnerabilities covered**
 
