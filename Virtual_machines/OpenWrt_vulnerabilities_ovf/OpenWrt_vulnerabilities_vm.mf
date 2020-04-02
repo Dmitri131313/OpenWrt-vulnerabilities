@@ -1,0 +1,2 @@
+SHA256(OpenWrt_vulnerabilities_vm.ovf)= f79506c8be0bbd6781bed4038a53cfe4699c2713f85c15f95301a19f1ec9a90b
+SHA256(OpenWrt_vulnerabilities_vm-disk1.vmdk)= 0edc50b3f9147e4196f28246bf7ba6d703c9c6c5e3a0a5e81b00a32b7b80f068
