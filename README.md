@@ -1,8 +1,8 @@
 # **OpenWrt-vulnerabilities**
 
-This project aims to create and publish Proof-of-Concept attack payloads for various vulnerabilities found in OpenWrt firmware. 
-
-The intention of this project is to promote education and awareness. 
+Currently this project consists of 2 zero-day vulnerabilities (CVE-2019-18992 and CVE-2019-17367) that we discovered in OpenWrt firmware.  
+This project aims to create and publish Proof-of-Concept attack payloads for various vulnerabilities found in OpenWrt firmware.  
+The intention of this project is to include more vulnerabilities resulting in the promotion of education and awareness. 
 
 ### **Get started**
 You will need a virtulization software like VMWare or Virtualbox.  
@@ -40,8 +40,9 @@ You can use the form from Exploit 1 for reference.
 You can use the OWASP Filter Evasion cheat sheet to find the correct payload.  \
 [https://owasp.org/www-community/xss-filter-evasion-cheatsheet](https://owasp.org/www-community/xss-filter-evasion-cheatsheet)  
 
-4. Exploit the XSS vulnerability via CSRF to redirect a user to www.google.com
+4. Exploit the XSS vulnerability via CSRF to redirect a user to www.google.com.
 
+*You are free to create and upload PoC attack payloads and send a pull request. I will be happy to include it*
 
 ### **How to contribute**
 
