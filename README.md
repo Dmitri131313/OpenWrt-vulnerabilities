@@ -30,7 +30,7 @@ You have to exploit the CSRF vulnerability - CVE-2019-17367 to accomplish this t
 You can use the form from Exploit 1 for reference.
 3. Find the exact fields where OpenWrt is vulnerable to XSS attacks and insert a payload to redirect a user to www.google.com  \
 You can use the OWASP Filter Evasion cheat sheet to find the correct payload.  \
-[https://owasp.org/www-community/xss-filter-evasion-cheatsheet](https://owasp.org/www-community/xss-filter-evasion-cheatsheet)  \
+[https://owasp.org/www-community/xss-filter-evasion-cheatsheet](https://owasp.org/www-community/xss-filter-evasion-cheatsheet)  
 
 4. Exploit the XSS vulnerability via CSRF to redirect a user to www.google.com
 
