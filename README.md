@@ -1,4 +1,4 @@
-**References**
+**References** 
 https://nvd.nist.gov/vuln/detail/CVE-2019-17367  
 https://nvd.nist.gov/vuln/detail/CVE-2019-18992
 
